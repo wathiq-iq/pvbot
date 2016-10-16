@@ -776,7 +776,7 @@ Severe clean your black list ⚙." ,"parse_mode" =>"HTML"));
 }
 
 
-define('WEBHOOK_URL', 'https://my-site.example.com/secret-path-for-webhooks/');
+define('WEBHOOK_URL', 'https://w-chtele.rhcloud.com');
 
 if (php_sapi_name() == 'cli') {
   // if run from console, set or delete webhook
